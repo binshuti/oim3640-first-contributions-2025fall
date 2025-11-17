@@ -1,3 +1,4 @@
 - [Zhi Li](https://github.com/lzblack)
 - [Christian Russell Susanto](https://github.com/ChristianRussell-ship-it)
 - [Palak Gandhi](https://github.com/pgandhii)
+- [Sophia Pak](https://github.com/sophia-pak)
