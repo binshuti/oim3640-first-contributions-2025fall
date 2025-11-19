@@ -1,3 +1,4 @@
+- [Daniel Rodriguez](https://github.com/L3B3)
 - [Thomas Song](https://github.com/tommysongsssss)
 - [Nicole Gaige](https://github.com/ngaige)
 - [Simon East](https://github.com/simonjeast/)
