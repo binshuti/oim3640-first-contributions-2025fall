@@ -1,1 +1,8 @@
-Thomas Song https://github.com/tommysongsssss/oim3640-first-contributions-2025fall.git
+- [Thomas Song](https://github.com/tommysongsssss)
+- [Nicole Gaige](https://github.com/ngaige)
+- [Simon East](https://github.com/simonjeast/)
+- [Nidhi Rudraraju](https://github.com/nidhiraju10)
+- [Zhi Li](https://github.com/lzblack)
+- [Christian Russell Susanto](https://github.com/ChristianRussell-ship-it)
+- [Palak Gandhi](https://github.com/pgandhii)
+- [Sophia Pak](https://github.com/sophia-pak)
